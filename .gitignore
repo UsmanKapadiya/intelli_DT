@@ -1,0 +1,6 @@
+/vendor
+/.idea
+.htaccess
+config.php
+config.bat
+node_modules
